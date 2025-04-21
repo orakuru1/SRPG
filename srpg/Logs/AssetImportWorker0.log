@@ -195,3 +195,451 @@ Received Import Request.
 Number of updated assets reloaded before import = 0
 Start importing Assets/Layer Lab/3D Cartoon Box Map/FBX/Box_Map.FBX using Guid(353b40c6a1ff7dd469b9d1e4dc0f13a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b45342f28daf0a1b7ef10dcfb3f5b9b') in 0.527816 seconds 
 Number of asset objects unloaded after import = 1254
+========================================================================
+Received Import Request.
+  Time since last request: 45.409495 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Map/Plain01.prefab
+  artifactKey: Guid(28571dc7a9cf7834892025d98a1fbe6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Map/Plain01.prefab using Guid(28571dc7a9cf7834892025d98a1fbe6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '340e99b4f39e80718dbd05cc018dd60c') in 0.044695 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Map/Plain_Stair_4.prefab
+  artifactKey: Guid(effb01124622b3042b37b0fd7a480ae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Map/Plain_Stair_4.prefab using Guid(effb01124622b3042b37b0fd7a480ae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63cbb9050470a8f1d8e8afde0990d67c') in 0.011180 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Map/Plain02_4.prefab
+  artifactKey: Guid(06db9a7ddd8a5704684a6469cf4d5140) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Map/Plain02_4.prefab using Guid(06db9a7ddd8a5704684a6469cf4d5140) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1357ffc7dbd69b2dc985e0e07ab5de9f') in 0.010785 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Map/Plain_Poison_4.prefab
+  artifactKey: Guid(e0cc4ab8eb0cecb4c9f84cb207b7fc26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Map/Plain_Poison_4.prefab using Guid(e0cc4ab8eb0cecb4c9f84cb207b7fc26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5604db7b63d8fc42ce34805ef8024d18') in 0.010838 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Map/Plain_Trap_4.prefab
+  artifactKey: Guid(bac8e94e76d188048819b05d5914546f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Map/Plain_Trap_4.prefab using Guid(bac8e94e76d188048819b05d5914546f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f12a01a3ea06aaadf5b554ec5c42949') in 0.011626 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Map/Plain_Stair.prefab
+  artifactKey: Guid(b76af908ad6233141b8d99d82fc9fa74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Map/Plain_Stair.prefab using Guid(b76af908ad6233141b8d99d82fc9fa74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c38f9626477a87ef27d1811b72708bd') in 0.009558 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 1.762529 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Side/Plain_Field_01.prefab
+  artifactKey: Guid(69db8f8a5b0e54f448d699aec4ae7e5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Side/Plain_Field_01.prefab using Guid(69db8f8a5b0e54f448d699aec4ae7e5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbfa0c01e092bda83585150eca8c92c3') in 0.012069 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Side/Plain_Mushroom_02.prefab
+  artifactKey: Guid(92907ca25a80b714da0c74dab2175a3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Side/Plain_Mushroom_02.prefab using Guid(92907ca25a80b714da0c74dab2175a3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c94a90925764e3de74dd562473ab9fd') in 0.008198 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Side/Plain_Stone_01.prefab
+  artifactKey: Guid(f76f42b45fe1b0040a18605c9bf0da13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Side/Plain_Stone_01.prefab using Guid(f76f42b45fe1b0040a18605c9bf0da13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c85e91d2d6cc6ca8b73ff57c3323e82f') in 0.009354 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Side/Plain_Stone_04.prefab
+  artifactKey: Guid(6b308bf8e0ca9244b833b709ba8bf7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Side/Plain_Stone_04.prefab using Guid(6b308bf8e0ca9244b833b709ba8bf7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd0fbdfe8e931135bcf7722f4678d739') in 0.008947 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Side/Plain_Stone_05.prefab
+  artifactKey: Guid(e6bf30ac90cb47546a77a048ed1fe4ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Side/Plain_Stone_05.prefab using Guid(e6bf30ac90cb47546a77a048ed1fe4ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d1b1a1c821e93f4246bd4f6d1c9d0cd') in 0.010531 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Side/Plain_Stone_03.prefab
+  artifactKey: Guid(42efe22f34047e144a368dee6b5e3faf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Side/Plain_Stone_03.prefab using Guid(42efe22f34047e144a368dee6b5e3faf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '010ba81339f8619d9e91d4da7e960908') in 0.008263 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Side/Plain_Stone_06.prefab
+  artifactKey: Guid(40b1030f3b2e8cb42a584be9bbb07672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Side/Plain_Stone_06.prefab using Guid(40b1030f3b2e8cb42a584be9bbb07672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19c26c1b083a44371533b3c4419adcee') in 0.009295 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010498 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Completed reload, in  1.350 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1351ms)
+		BeginReloadAssembly (153ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (42ms)
+		EndReloadAssembly (1103ms)
+			LoadAssemblies (104ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (250ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (41ms)
+			SetupLoadedEditorAssemblies (664ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (21ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (69ms)
+				ProcessInitializeOnLoadAttributes (508ms)
+				ProcessInitializeOnLoadMethodAttributes (58ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (18ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.07 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4618 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 42 unused Assets / (307.2 KB). Loaded Objects now: 5302.
+Memory consumption went from 191.3 MB to 191.0 MB.
+Total: 2.510200 ms (FindLiveObjects: 0.315400 ms CreateObjectMapping: 0.144400 ms MarkObjects: 1.985000 ms  DeleteObjects: 0.064000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:CustomObjectIndexerAttribute: 6b0e35c9178b02a6363f3721b7b8e397 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 52.966702 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/FBX/Texture/monster_map.psd
+  artifactKey: Guid(cf892c089be6c734c889eb47df552f48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/FBX/Texture/monster_map.psd using Guid(cf892c089be6c734c889eb47df552f48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69b8713082a209dea5be96bd0e3732fd') in 0.051177 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 4.366722 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/FBX/Materials/monster_map.mat
+  artifactKey: Guid(86cc6b609c634403c9eea7907b9edbd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/FBX/Materials/monster_map.mat using Guid(86cc6b609c634403c9eea7907b9edbd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb95fa6b7f3fc2942c6c8180af256b6f') in 0.125239 seconds 
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 46.668365 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Map/Plain01_4.prefab
+  artifactKey: Guid(98edced06879f3446b204b95d885e760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Map/Plain01_4.prefab using Guid(98edced06879f3446b204b95d885e760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c64655f1b8e09adacfacacfe0ba1ad6') in 0.023847 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Map/Plain_Fire_4.prefab
+  artifactKey: Guid(cd1eaee9e6d210c4c978a8c53f42c7a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Map/Plain_Fire_4.prefab using Guid(cd1eaee9e6d210c4c978a8c53f42c7a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ddf4b9dfc9ce7de53d2bafb22a031dc') in 0.009078 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Map/Plain02.prefab
+  artifactKey: Guid(d07f983f52b4e39459ade3e25d164ec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Map/Plain02.prefab using Guid(d07f983f52b4e39459ade3e25d164ec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3feb3e39b47d8f053f0a455d6997ecb7') in 0.011854 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Map/Plain_Trap.prefab
+  artifactKey: Guid(c26946ac14adebd45abee16a229865f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Map/Plain_Trap.prefab using Guid(c26946ac14adebd45abee16a229865f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca737baf349e8c99125ed8895fbc37b1') in 0.008243 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Map/Plain_Fire.prefab
+  artifactKey: Guid(6da3d8495cfe8504fb50b1a587257ef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Map/Plain_Fire.prefab using Guid(6da3d8495cfe8504fb50b1a587257ef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb56b9af0819b8a78e708c83b3ab4d5f') in 0.008870 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Map/Plain_s.prefab
+  artifactKey: Guid(599e146c16e99fb49a3ba96c055bc98b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Map/Plain_s.prefab using Guid(599e146c16e99fb49a3ba96c055bc98b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed2270f15754918c5a82fa57e2b666f1') in 0.009652 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Map/Plain_w.prefab
+  artifactKey: Guid(b6eeb5e998618aa449255e3ca0c593df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Map/Plain_w.prefab using Guid(b6eeb5e998618aa449255e3ca0c593df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac95c2c621e3702a0e79a1b2f26ae239') in 0.008166 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.198560 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Side/Plain_Field_02.prefab
+  artifactKey: Guid(b63d43bd4e6feeb498069e50954cb50a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Side/Plain_Field_02.prefab using Guid(b63d43bd4e6feeb498069e50954cb50a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c849748b05fac759f64e5d45bf19b299') in 0.021315 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Side/Plain_Mushroom_01.prefab
+  artifactKey: Guid(2cb2ab57d61cead4eb0cadf05c2a1122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Side/Plain_Mushroom_01.prefab using Guid(2cb2ab57d61cead4eb0cadf05c2a1122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf4571703a3a1e2ff27e6fc7d7723e38') in 0.008726 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Side/Plain_Field_02_w.prefab
+  artifactKey: Guid(1eb35aadfcd090d4eab84aac512bce53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Side/Plain_Field_02_w.prefab using Guid(1eb35aadfcd090d4eab84aac512bce53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bea63e1e896c704fdb0b297ed2b0480b') in 0.008393 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Side/Plain_Stone_04.prefab
+  artifactKey: Guid(6b308bf8e0ca9244b833b709ba8bf7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Side/Plain_Stone_04.prefab using Guid(6b308bf8e0ca9244b833b709ba8bf7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f61085069aeede3aad5fc58dcfa55aa') in 0.008852 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Side/Plain_Stone_02.prefab
+  artifactKey: Guid(d713a341ffe49d948b0c7523a289e05f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Side/Plain_Stone_02.prefab using Guid(d713a341ffe49d948b0c7523a289e05f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '861d77ffeda4fd4da98765bcc9f8cabc') in 0.007620 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Side/Plain_Tree_02.prefab
+  artifactKey: Guid(e8bb12f79e968364fbfc4ab26d73121e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Side/Plain_Tree_02.prefab using Guid(e8bb12f79e968364fbfc4ab26d73121e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7333259da46809c7dea856017fec90e2') in 0.011948 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Side/Plain_Stone_06.prefab
+  artifactKey: Guid(40b1030f3b2e8cb42a584be9bbb07672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/00_Plain/Side/Plain_Stone_06.prefab using Guid(40b1030f3b2e8cb42a584be9bbb07672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2055cc951b3fe8844ea0b6aa1ec312d') in 0.008609 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 2.303467 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Map/Fort01_4.prefab
+  artifactKey: Guid(ab62653d1751ac54a8dcb04a6e49ef88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Map/Fort01_4.prefab using Guid(ab62653d1751ac54a8dcb04a6e49ef88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67522115ffa1236dd1842dc881780bef') in 0.009503 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Map/Fort_Trap.prefab
+  artifactKey: Guid(2c2929c4229ba974395d38702e119d9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Map/Fort_Trap.prefab using Guid(2c2929c4229ba974395d38702e119d9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dffa65a5f72915ee322dffb7bb28807d') in 0.009191 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Map/Fort_Poison.prefab
+  artifactKey: Guid(e0f041a0e583e0949bb72149a2306a51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Map/Fort_Poison.prefab using Guid(e0f041a0e583e0949bb72149a2306a51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4f0cb96580e3b3b84a5b340e24c4b73') in 0.008296 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Map/Fort_Trap_4.prefab
+  artifactKey: Guid(08ef17fa8bbfd0b4a9411df2fdcf5fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Map/Fort_Trap_4.prefab using Guid(08ef17fa8bbfd0b4a9411df2fdcf5fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a260b2376cd5dd092cc9234ce2614f6e') in 0.008745 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Map/Fort_Fire.prefab
+  artifactKey: Guid(ee706e4070d426845bf4d5658e571918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Map/Fort_Fire.prefab using Guid(ee706e4070d426845bf4d5658e571918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f03e9696d0d6505b9cdbcee02a647281') in 0.008723 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Map/Fort02.prefab
+  artifactKey: Guid(646c39b84174a8b4e8beac201a26dbc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Map/Fort02.prefab using Guid(646c39b84174a8b4e8beac201a26dbc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0a7e8ae180578b2aed426e57c7258f3') in 0.008903 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Map/Fort_Fire_4.prefab
+  artifactKey: Guid(ec394cb000715cc478822938dbfa75b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Map/Fort_Fire_4.prefab using Guid(ec394cb000715cc478822938dbfa75b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dd7f7c72dd9295de74b817224f72092') in 0.009391 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 8.882196 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Side/Fort_Field_02.prefab
+  artifactKey: Guid(eb092c274fe7a454fb2e09817da1fb0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Side/Fort_Field_02.prefab using Guid(eb092c274fe7a454fb2e09817da1fb0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d89785e64db175d58cd76975f5aa707') in 0.012312 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Side/Fort_Stone_03.prefab
+  artifactKey: Guid(09f7a25705d819443aeab9bafeee2816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Side/Fort_Stone_03.prefab using Guid(09f7a25705d819443aeab9bafeee2816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6a5e625b978e8a95711d8856e407cb4') in 0.009013 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Side/Fort_Stone_12.prefab
+  artifactKey: Guid(2ba31ea4b83d6f447bffb1a9dbbb373d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Side/Fort_Stone_12.prefab using Guid(2ba31ea4b83d6f447bffb1a9dbbb373d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc5b0bfcb1a04814cf81f08571d4af83') in 0.009061 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Side/Fort_Stone_06.prefab
+  artifactKey: Guid(3fd5aa8ccc0d40d4db350550533f9d8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Side/Fort_Stone_06.prefab using Guid(3fd5aa8ccc0d40d4db350550533f9d8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '600dcdbdc2a5928529e43ede852b2549') in 0.009083 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Side/Fort_Stone_08.prefab
+  artifactKey: Guid(fe7f96467c3000147a8407db74d8317b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Side/Fort_Stone_08.prefab using Guid(fe7f96467c3000147a8407db74d8317b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '833bd7913484a87b5eb62a5738632913') in 0.008642 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Side/Fort_Stone_05.prefab
+  artifactKey: Guid(a2ee324facadf404993c0e23d3efb4b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Side/Fort_Stone_05.prefab using Guid(a2ee324facadf404993c0e23d3efb4b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '630024352979fc79bd03cb10692c3423') in 0.009456 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Side/Fort_Stone_10.prefab
+  artifactKey: Guid(270c98173c197ff44b7e30a0e62c50c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Side/Fort_Stone_10.prefab using Guid(270c98173c197ff44b7e30a0e62c50c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1af203f8d3075f40ed6f7e1f69c3fdd6') in 0.009333 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Side/Fort_Stone_11.prefab
+  artifactKey: Guid(b191f9f41a5d87a40b68a80e39203dc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Side/Fort_Stone_11.prefab using Guid(b191f9f41a5d87a40b68a80e39203dc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3772ca344d274691ea7638008a64b28') in 0.009033 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Side/Fort_Wallsurface_02.prefab
+  artifactKey: Guid(9f01336a95e6c7446b18fa4f06f6dc15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Side/Fort_Wallsurface_02.prefab using Guid(9f01336a95e6c7446b18fa4f06f6dc15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7c3d63c66566d57f1c7b0395507f7f1') in 0.009733 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Side/Fort_Field_02_w.prefab
+  artifactKey: Guid(b8f0db9d3ea1a424ca0183de28a38699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Side/Fort_Field_02_w.prefab using Guid(b8f0db9d3ea1a424ca0183de28a38699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bcf4733237e0dd245938b9b9e98cdf7') in 0.008848 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Side/Fort_Stone_02.prefab
+  artifactKey: Guid(02b49cefe4a10be4b95bd6d2719bffa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Side/Fort_Stone_02.prefab using Guid(02b49cefe4a10be4b95bd6d2719bffa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74570c43f9bb9e20c619c8040e27b5ac') in 0.009064 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Side/Fort_Wallsurface_Up01.prefab
+  artifactKey: Guid(2614a9be4989867408f8e44ccd439f2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Layer Lab/3D Cartoon Box Map/Prefabs/06_Fort/Side/Fort_Wallsurface_Up01.prefab using Guid(2614a9be4989867408f8e44ccd439f2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acd64f6c7eb329d1c0034e73a8a50ecf') in 0.009055 seconds 
+Number of asset objects unloaded after import = 9
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
